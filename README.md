@@ -98,3 +98,5 @@ If things goes well, this section should automatically be replaced by a list of 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=314jt3cuwduz2ruta3idlcnsmmr4&cover_image=true&theme=novatorem&show_offline=true&background_color=090101&interchange=true&bar_color=10730c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=314jt3cuwduz2ruta3idlcnsmmr4&redirect=true)
