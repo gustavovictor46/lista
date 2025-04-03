@@ -1,4 +1,4 @@
-let idade = 54
+let idade = 54;
 
 if (idade >= 0 && idade <= 12) {
     console.log("Criança 👶");
