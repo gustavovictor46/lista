@@ -1,4 +1,4 @@
-let nota = 101
+let nota = 101;
 
 if (nota >=60 && nota <=100) {
     console.log("Aprovado!");
